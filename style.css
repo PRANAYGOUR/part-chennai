@@ -1,27 +1,68 @@
 .grid{
-
-font-family:Arial, Helvetica, sans-serif;
-color: darkviolet;
-background-color:darkturquoise;
-font-size: 50px;
-
-}
-
-.item{
-    font-family:Arial, Helvetica, sans-serif;
-    color: darkviolet;
-    background-color:deeppink;
+    justify-content: space-evenly;
+    font-family:cursive;
+    padding-bottom: 30px;
+    background-color:red;
     font-size: 50px;
-      
 }
  
+.grid img{
+    margin-left: 100px;
+}
+
+
+.item{
+    justify-content: space-evenly;
+    font-family:cursive;
+    padding-bottom: 30px;
+    background-color:turquoise;
+    font-size: 50px;
+}
+ 
+.item img{
+    margin-left: 100px;
+}
+
+ 
 .item2{
-    font-family:Arial, Helvetica, sans-serif;
-    color: darkviolet;
-    background-color:gold;
+    font-family:cursive;
+    background-color: gray;
     font-size: 50px;
       
 }
 
 
 
+a:link{
+    color: white;
+  }
+  a:visited{
+    color: white;
+  }
+
+  .grid  img:hover{
+    transform: scale(1.2);
+  }
+  
+  a:link{
+    color: white;
+  }
+  a:visited{
+    color: white;
+  }
+
+  .item  img:hover{
+    transform: scale(1.2);
+  }
+  
+  a:link{
+    color: white;
+  }
+  a:visited{
+    color: white;
+  }
+
+  .item2  img:hover{
+    transform: scale(1.2);
+  }
+  
